@@ -1,0 +1,19 @@
+# ===== 操作系统垃圾 =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# ===== 编辑器 / IDE =====
+.vscode/
+.idea/
+*.swp
+
+# ===== 本地草稿与产物（若从本地 Claw 同步）=====
+output/
+*.tmp
+*.log
+*.bak
+
+# ===== 密钥 / 环境变量 =====
+.env
+*.key
